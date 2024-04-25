@@ -1,1 +1,4 @@
-cv2
+opencv-python # Also installs numpy
+pandas # Lets you create dataframes
+ipykernel # Lets you use notebooks within a virtual environment
+pillow # Python image library

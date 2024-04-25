@@ -21,3 +21,4 @@
         - .venv\Scripts\Activate.ps1
     - macOS and Linux
         - source .venv/bin/activate
+- To exit the virtual environment, type deactivate into the terminal
