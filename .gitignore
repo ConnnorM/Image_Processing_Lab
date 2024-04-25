@@ -1,0 +1,3 @@
+# Ignore files that shouldn't go to GitHub
+.venv
+.DS_Store
