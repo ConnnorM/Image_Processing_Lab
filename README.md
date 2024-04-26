@@ -1,6 +1,14 @@
 # Image_Processing_Lab
 - Experimenting with Python image processing to automate calculation of *insert name of cool underwater organism thingy here* surface areas.
 
+# TODO:
+- run the function on the photo using all possible threshold values
+    - choose threshold value(s) that gets a count that is closest to example value
+- repeat for all example photos to 'train' (determine threshold parameter)
+    - use % error as loss function
+- make a cropping gui...? or they can just do that on their own idk
+- use nearest neighbors or something to get rid of outlier dots that aren't converted properly with threshold
+
 ## Notes
 - After cloning this repository, set up the virtual environment using the instructions under the 'Virtual Environment' heading below
 - Upload the original photos to the original_photos folder
