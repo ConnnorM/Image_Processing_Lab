@@ -2,6 +2,9 @@
 - Experimenting with Python image processing to automate calculation of *insert name of cool underwater organism thingy here* surface areas.
 
 # TODO:
+- try all the photos and do accuracy checks?
+
+
 - make cropped version of photos
 - repeat for all example photos to 'train' (determine threshold parameters)
     - Finished:
