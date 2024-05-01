@@ -2,19 +2,7 @@
 - Experimenting with Python image processing to automate calculation of *insert name of cool underwater organism thingy here* surface areas.
 
 # TODO:
-- try all the photos and do accuracy checks?
-
-
-- make cropped version of photos
-- repeat for all example photos to 'train' (determine threshold parameters)
-    - Finished:
-        - Lithothrix
-    TODO:
-        - Laurencia CSP
-        - Laurencia CSSA
-        - Test Output Only: Plocamium
-- make a cropping gui...? or they can just do that on their own idk
-- use nearest neighbors or something to get rid of outlier dots that aren't converted properly with threshold
+- have it test a range of values like 202020 - 100100100 or something and use loss function
 
 ## Notes
 - After cloning this repository, set up the virtual environment using the instructions under the 'Virtual Environment' heading below
